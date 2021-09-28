@@ -17,3 +17,6 @@ if x == 0 {
 
 #testar lite mer grejer 
 print("Hur kommer detta se ut i github???")
+
+print ("Om jag gör detta igen, vad händer då?? 
+")
