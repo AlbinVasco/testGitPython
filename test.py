@@ -14,3 +14,6 @@ if x == 0 {
 }else{
     print("x är inte noll")
 }
+
+#testar lite mer grejer 
+print("Hur kommer detta se ut i github???")
